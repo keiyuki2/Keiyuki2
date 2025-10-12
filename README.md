@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Keiyuki2/Keiyuki2/output/snake.svg" alt="Snake animation" />
+<img src="![snake animation](https://raw.githubusercontent.com/Keiyuki2/Keiyuki2/output/snake.svg)" />
 
 ###
